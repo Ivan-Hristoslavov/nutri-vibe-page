@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "NutriVibe — KI-Ernährungscoach für iPhone & Apple Watch",
+    "description": "Verfolge Kalorien, Makros, Wasser und Fasten mühelos. Fotografiere dein Essen und lass die KI es in Sekunden erfassen. Dein freundlicher Vibe-Coach hält dich motiviert. Kostenlos im App Store.",
+    "ogAlt": "NutriVibe-App auf dem iPhone mit KI-Lebensmittelerfassung",
+    "keywords": "NutriVibe, Kalorienzähler, Makro-Tracker, KI-Lebensmittelscanner, Ernährungs-App, Fasten, Ernährungstagebuch, Apple Health, Apple Watch, Diät, iPhone"
+  },
+  "nav": {
+    "features": "Funktionen",
+    "howItWorks": "So funktioniert's",
+    "pricing": "Preise",
+    "faq": "FAQ",
+    "download": "Herunterladen",
+    "language": "Sprache",
+    "toggleTheme": "Design wechseln",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "scrollToTop": "Nach oben",
+    "scrollToTopShort": "Hoch"
+  },
+  "hero": {
+    "badge": "KI-gestützte Ernährung",
+    "title": "Iss besser mit einem",
+    "highlight": "KI-Ernährungscoach",
+    "titleEnd": "in deiner Tasche",
+    "subtitle": "NutriVibe erfasst deine Mahlzeiten aus einem einzigen Foto, verfolgt Kalorien, Makros, Wasser und Fasten und motiviert dich mit einem Coach, der dich wirklich versteht.",
+    "ctaPrimary": "Im App Store laden",
+    "ctaSecondary": "So funktioniert's",
+    "trust": "Beliebt bei gesundheitsbewussten Menschen weltweit",
+    "ratingLabel": "4,9 Durchschnittsbewertung",
+    "screenshotAlt": "NutriVibe Today-Dashboard mit Kalorien, Makros und Hydration",
+    "motivation": "Du schaffst das! 💪"
+  },
+  "socialProof": {
+    "ratingValue": "4,9",
+    "ratingLabel": "App-Store-Bewertung",
+    "foodsValue": "3 Mio.+",
+    "foodsLabel": "Lebensmittel in der Datenbank",
+    "languagesValue": "4",
+    "languagesLabel": "Unterstützte Sprachen"
+  },
+  "features": {
+    "title": "Alles, was du für gute Ernährung brauchst",
+    "subtitle": "Leistungsstarkes Tracking, ganz mühelos — damit gesunde Gewohnheiten endlich bleiben.",
+    "peek": {
+      "today": "Alles in Today ✨",
+      "aiScan": "Foto & Log 📸",
+      "fasting": "Im Blick ⏱️",
+      "recipes": "Für dich 🥗",
+      "progressCalories": "Trends sehen 📈",
+      "progressWeight": "Dein Weg 💪",
+      "foodSearch": "Essen finden 🔍",
+      "foodDetails": "Alle Fakten 🧪"
+    },
+    "items": {
+      "today": {
+        "name": "Deine Ernährung auf einen Blick",
+        "description": "Kalorienring, Makros, Hydration und Fasten in einem ruhigen Today-Dashboard."
+      },
+      "logging": {
+        "name": "Smartes Lebensmittel-Logging",
+        "description": "Erfasse Mahlzeiten in Sekunden mit der riesigen Open-Food-Facts-Datenbank und integriertem Barcode-Scanner."
+      },
+      "aiScan": {
+        "name": "KI-Lebensmittelscan",
+        "description": "Foto der Mahlzeit für sofortige Kalorien und Makros. 1 KI-Credit pro Scan (im AI-Pro-Kontingent: 100/Monat)."
+      },
+      "water": {
+        "name": "Wasser-Tracking",
+        "description": "Erreiche tägliche Hydrationsziele mit schnellem Hinzufügen, synchronisiert mit Apple Health."
+      },
+      "macros": {
+        "name": "Makro- & Kalorienziele",
+        "description": "Erhalte einen personalisierten Makrorechner mit täglichen Zielen für Protein, Kohlenhydrate und Fett."
+      },
+      "fasting": {
+        "name": "Intervallfasten",
+        "description": "Nutze flexible Fastenpläne mit Live-Timer und Einblicken in die Stoffwechselphasen."
+      },
+      "progress": {
+        "name": "Fortschritt & Körper-Tracking",
+        "description": "Verfolge Gewicht und Maße mit klaren Diagrammen im Apple-Stil und Apple-Health-Sync."
+      },
+      "recipes": {
+        "name": "Rezepte & KI-Vorschläge",
+        "description": "Rezepte mit Pro. KI-Vorschlag: Wunsch beschreiben → Datenbanksuche (0 Credits) oder komplettes Rezept generieren (1 Credit)."
+      },
+      "progressCalories": {
+        "name": "Kalorientrends",
+        "description": "Linien- und Balkendiagramme für die tägliche Aufnahme vs. Ziel."
+      },
+      "progressWeight": {
+        "name": "Gewichtsverlauf",
+        "description": "Gewicht über Wochen mit Ziellinie und Apple-Health-Sync."
+      },
+      "foodSearch": {
+        "name": "Suchen & loggen",
+        "description": "Open Food Facts, Barcode, Mahlzeit-Filter — Essen in Sekunden hinzufügen."
+      },
+      "foodDetails": {
+        "name": "Lebensmittel-Details",
+        "description": "Nutri-Score, Makros pro Portion, Portionen und Vibe-Tipps vor dem Loggen."
+      },
+      "watch": {
+        "name": "Apple-Watch-App",
+        "description": "Erfasse Wasser, starte Fasten und prüfe deinen Tag direkt vom Handgelenk."
+      },
+      "coach": {
+        "name": "Vibe KI-Coach",
+        "description": "Ein motivierendes Maskottchen, das deine Gewohnheiten liest und in klare nächste Schritte verwandelt."
+      },
+      "sync": {
+        "name": "Cloud-Sync",
+        "description": "Deine Daten bleiben sicher auf all deinen Geräten synchronisiert."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Gesunde Gewohnheiten in drei Schritten",
+    "subtitle": "Starte heute und sieh schon in der ersten Woche Fortschritte.",
+    "steps": {
+      "one": {
+        "title": "Ziele festlegen",
+        "description": "Nenne NutriVibe dein Ziel und deine Vorlieben. Wir erstellen deinen persönlichen Kalorien- und Makroplan."
+      },
+      "two": {
+        "title": "Mit KI erfassen",
+        "description": "Foto machen, Barcode scannen oder suchen. Eine Mahlzeit zu erfassen dauert nur Sekunden."
+      },
+      "three": {
+        "title": "Fortschritt beobachten",
+        "description": "Sieh klare Trends, halte deine Serie und lass Vibe dich jeden Tag motivieren."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Wähle deinen Plan",
+    "subtitle": "Kostenlos starten. Pro = volles Premium ohne monatliche KI. AI Pro = Foto-Scan und 100 Credits/Monat.",
+    "monthly": "Monatlich",
+    "yearly": "Jährlich",
+    "perMonth": "/Mon.",
+    "perYear": "/Jahr",
+    "saveBadge": "Mit Jahresabo sparen",
+    "mostPopular": "Am beliebtesten",
+    "subscribeCta": "Im App Store abonnieren",
+    "creditsTitle": "So funktionieren KI-Credits",
+    "creditsBody": "AI Pro: 100 Credits pro Kalendermonat (Foto-Scan, Text-Log, KI-Rezept, Zielplan u. a. — meist 1 Credit). Weekly Coach bei AI Pro ohne Extra-Credit. Pro und Free ohne Monatskontingent — 3 Welcome-Scans einmal, dann Scan-Pakete (10/30/100, verfallen nicht) oder Video für +1 Scan. Tageslimit: bis 15 KI-Aktionen (Free/Pro mit Credits), bis 50 bei AI Pro.",
+    "recipeAiNote": "Rezepte-Tab braucht Pro. „In Datenbank finden“: 0 Credits; KI-Rezept erzeugen: 1 Credit.",
+    "footnote": "USD-Preise sind Richtwerte; im App Store siehst du die lokale Währung. Pro: 1 Woche gratis testen, wo Apple es anbietet. Scan-Pakete: $1.99 (10), $4.99 (30), $14.99 (100). Abos verlängern sich automatisch. NutriVibe ersetzt keine medizinische Beratung.",
+    "free": {
+      "name": "Kostenlos",
+      "price": "$0",
+      "period": "für immer",
+      "cta": "Kostenlos laden",
+      "features": [
+        "Bis 10 Lebensmittel/Tag, Wasser & Makro-Rechner",
+        "Barcode, Suche, Today & Basis-Fortschritt",
+        "3 Welcome-KI-Scans (einmal pro Konto)",
+        "Scan-Pakete oder Video für mehr KI"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "billingMonthly": "Pro — monatlich",
+      "billingYearly": "Pro — jährlich",
+      "priceMonthly": "$2.99",
+      "priceYearly": "$19.99",
+      "features": [
+        "Unbegrenztes Essen-Tracking täglich",
+        "Rezepte, Fasten & erweiterte Analysen",
+        "Detaillierte Nährwerte, Nutri-Score, Ziele",
+        "KI-Rezeptsuche — 0 Credits (Tab Rezepte = Pro)",
+        "KI-Foto-Scan — mit AI Pro oder Scan-Paketen"
+      ]
+    },
+    "aiPro": {
+      "name": "AI Pro",
+      "billingMonthly": "AI Pro — monatlich",
+      "billingYearly": "AI Pro — jährlich",
+      "priceMonthly": "$7.99",
+      "priceYearly": "$59.99",
+      "features": [
+        "Alles aus NutriVibe Pro",
+        "KI-Foto-Scan — Kamera, Kalorien & Makros",
+        "100 KI-Credits/Monat (Pool, nicht unbegrenzt)",
+        "Danach: Scan-Pakete oder neuer Monat"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Alles, was du vor dem Start wissen musst.",
+    "items": {
+      "privacy": {
+        "question": "Sind meine Daten privat und sicher?",
+        "answer": "Ja. Deine Daten werden verschlüsselt und sicher synchronisiert. Wir verkaufen deine persönlichen Daten nie und du kannst sie jederzeit exportieren oder löschen."
+      },
+      "languages": {
+        "question": "Welche Sprachen werden unterstützt?",
+        "answer": "NutriVibe ist vollständig auf Englisch, Bulgarisch, Deutsch und Rumänisch verfügbar — weitere folgen."
+      },
+      "devices": {
+        "question": "Auf welchen Geräten funktioniert es?",
+        "answer": "NutriVibe läuft auf dem iPhone und bietet eine eigene Apple-Watch-App mit sicherer Cloud-Synchronisation über deine Geräte hinweg."
+      },
+      "appleHealth": {
+        "question": "Synchronisiert es mit Apple Health?",
+        "answer": "Ja. Wasser, Gewicht, Ernährung und Aktivität können in beide Richtungen mit Apple Health synchronisiert werden."
+      },
+      "aiAccuracy": {
+        "question": "Wie funktionieren KI-Credits und Scans?",
+        "answer": "Kostenlos: bis 10 Lebensmittel/Tag und 3 Welcome-Scans einmal. Pro: unbegrenztes Tracking, Rezepte und Fasten, aber keine monatlichen KI-Credits — Foto-KI mit AI Pro oder Scan-Paketen. AI Pro: 100 Credits/Monat für Scan, Text-Log, KI-Rezept usw. (meist 1 Credit). Rezeptsuche: 0 Credits; Rezept erzeugen: 1. Preise im App Store in lokaler Währung."
+      },
+      "subscription": {
+        "question": "Kann ich mein Abo jederzeit kündigen?",
+        "answer": "Selbstverständlich. Verwalte oder kündige dein Abo jederzeit im App Store — ganz unkompliziert."
+      }
+    }
+  },
+  "vibe": {
+    "name": "Vibe",
+    "floats": {
+      "heroLeft": "Hey — etwas loggen? 🌱",
+      "heroRight": "Du schaffst das! 💪",
+      "heroPeek": "Dein Tag auf einen Blick ✨",
+      "social": "Kleine Siege zählen 🌟",
+      "featuresSide": "Keine Idee, was du essen sollst?",
+      "howItWorksSide": "Starte mit einer Mahlzeit heute 🍽️"
+    },
+    "howItWorks": "Hey — etwas loggen? 🌱",
+    "features": "Probier AI Suggest bei Rezepten 🥗",
+    "pricing": "Wähl deinen Plan ✨",
+    "faq": "Frag ruhig — in der App bin ich auch da.",
+    "finalCta": "Weiter so! 🎉",
+    "footer": "Stolz auf dich. Erhol dich. 🌟"
+  },
+  "finalCta": {
+    "title": "Beginne heute dein gesündestes Kapitel",
+    "subtitle": "Lade NutriVibe kostenlos und lass deinen KI-Coach kleine Erfolge in dauerhafte Gewohnheiten verwandeln.",
+    "cta": "Im App Store laden"
+  },
+  "footer": {
+    "tagline": "Iss klug. Beweg dich oft. Lebe voller Energie.",
+    "productHeading": "Produkt",
+    "companyHeading": "Unternehmen",
+    "legalHeading": "Rechtliches",
+    "links": {
+      "features": "Funktionen",
+      "howItWorks": "So funktioniert's",
+      "pricing": "Preise",
+      "faq": "FAQ",
+      "privacy": "Datenschutz",
+      "terms": "Nutzungsbedingungen"
+    },
+    "languageHeading": "Sprache",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "legal": {
+    "backHome": "Zurück zur Startseite",
+    "lastUpdated": "Zuletzt aktualisiert"
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "updated": "Juni 2026",
+    "intro": "Dein Datenschutz ist uns wichtig. Diese Erklärung beschreibt, was NutriVibe erfasst, wie es genutzt wird und welche Kontrolle du über deine Daten hast.",
+    "sections": {
+      "collect": {
+        "title": "Welche Daten wir erfassen",
+        "body": "Wir erfassen die Ernährungs-, Aktivitäts- und Profildaten, die du hinzufügst, um Tracking, Einblicke und personalisierte Ziele bereitzustellen."
+      },
+      "use": {
+        "title": "Wie wir deine Daten nutzen",
+        "body": "Deine Daten treiben deine Dashboards, KI-Einblicke und Fortschritte an. Wir verkaufen deine persönlichen Daten nicht an Dritte."
+      },
+      "control": {
+        "title": "Deine Optionen",
+        "body": "Du kannst deine Daten jederzeit aus der App exportieren oder dauerhaft löschen oder unser Support-Team kontaktieren."
+      }
+    }
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "updated": "Juni 2026",
+    "intro": "Mit der Nutzung von NutriVibe stimmst du diesen Bedingungen zu. Bitte lies sie sorgfältig.",
+    "sections": {
+      "use": {
+        "title": "Nutzung von NutriVibe",
+        "body": "NutriVibe bietet Ernährungstracking und Bildungsinhalte und ist kein Ersatz für professionelle medizinische Beratung."
+      },
+      "subscriptions": {
+        "title": "Abonnements",
+        "body": "Premium-Abos verlängern sich automatisch, sofern sie nicht mindestens 24 Stunden vor Ende des aktuellen Zeitraums über den App Store gekündigt werden."
+      },
+      "liability": {
+        "title": "Haftungsbeschränkung",
+        "body": "NutriVibe wird ohne Gewähr bereitgestellt. Konsultiere immer eine medizinische Fachkraft, bevor du größere Ernährungsumstellungen vornimmst."
+      }
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "NutriVibe — AI Nutrition Coach for iPhone & Apple Watch",
+    "description": "Track calories, macros, water and fasting effortlessly. Snap a photo and let AI log your meal in seconds. Your friendly Vibe coach keeps you motivated. Free on the App Store.",
+    "ogAlt": "NutriVibe app on iPhone showing AI food tracking",
+    "keywords": "NutriVibe, calorie tracker, macro tracker, AI food scanner, nutrition app, intermittent fasting, meal log, Apple Health, Apple Watch, diet coach, food diary, iPhone health app"
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How it works",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "download": "Download",
+    "language": "Language",
+    "toggleTheme": "Toggle theme",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "scrollToTop": "Back to top",
+    "scrollToTopShort": "Top"
+  },
+  "hero": {
+    "badge": "AI-powered nutrition",
+    "title": "Eat better with an",
+    "highlight": "AI nutrition coach",
+    "titleEnd": "in your pocket",
+    "subtitle": "NutriVibe logs your meals from a single photo, tracks calories, macros, water and fasting, and keeps you motivated with a coach that actually gets you.",
+    "ctaPrimary": "Download on the App Store",
+    "ctaSecondary": "See how it works",
+    "trust": "Loved by health-conscious people worldwide",
+    "ratingLabel": "4.9 average rating",
+    "screenshotAlt": "NutriVibe Today dashboard with calories, macros and hydration",
+    "motivation": "You've got this! 💪"
+  },
+  "socialProof": {
+    "ratingValue": "4.9",
+    "ratingLabel": "App Store rating",
+    "foodsValue": "3M+",
+    "foodsLabel": "Foods in the database",
+    "languagesValue": "4",
+    "languagesLabel": "Languages supported"
+  },
+  "features": {
+    "title": "Everything you need to eat well",
+    "subtitle": "Powerful tracking made effortless — so healthy habits finally stick.",
+    "peek": {
+      "today": "All in Today ✨",
+      "aiScan": "Snap & log 📸",
+      "fasting": "On track ⏱️",
+      "recipes": "For you 🥗",
+      "progressCalories": "See trends 📈",
+      "progressWeight": "Your journey 💪",
+      "foodSearch": "Find any food 🔍",
+      "foodDetails": "Full facts 🧪"
+    },
+    "items": {
+      "today": {
+        "name": "Your nutrition at a glance",
+        "description": "Calorie ring, macros, hydration and fasting in one calm Today dashboard."
+      },
+      "logging": {
+        "name": "Smart Food Logging",
+        "description": "Log meals in seconds with a huge Open Food Facts database and a built-in barcode scanner."
+      },
+      "aiScan": {
+        "name": "AI Food Scan",
+        "description": "Snap a meal for instant calories and macros. Uses 1 AI credit per scan (included in AI Pro’s 100/month bucket)."
+      },
+      "water": {
+        "name": "Water Tracking",
+        "description": "Hit daily hydration goals with quick-add cups that sync with Apple Health."
+      },
+      "macros": {
+        "name": "Macro & Calorie Goals",
+        "description": "Get a personalized macro calculator with daily targets for protein, carbs and fat."
+      },
+      "fasting": {
+        "name": "Intermittent Fasting",
+        "description": "Run flexible fasting plans with a live timer and metabolic stage insights."
+      },
+      "progress": {
+        "name": "Progress & Body Tracking",
+        "description": "Track weight and measurements with clean Apple-style charts and Apple Health sync."
+      },
+      "recipes": {
+        "name": "Recipes & AI Suggest",
+        "description": "Browse recipes with Pro. AI Suggest: describe a craving to search the database (0 credits) or generate a full recipe (1 credit)."
+      },
+      "progressCalories": {
+        "name": "Calorie trends",
+        "description": "Line and bar charts for daily intake vs your goal — spot patterns at a glance."
+      },
+      "progressWeight": {
+        "name": "Weight tracking",
+        "description": "Log weight over weeks and months with a clear goal line and Apple Health sync."
+      },
+      "foodSearch": {
+        "name": "Search & log food",
+        "description": "Search Open Food Facts, scan barcodes, filter by meal and add foods in seconds."
+      },
+      "foodDetails": {
+        "name": "Rich food details",
+        "description": "Nutri-Score, macros per serving, smart portions and Vibe tips before you log."
+      },
+      "watch": {
+        "name": "Apple Watch App",
+        "description": "Log water, start fasts and check your day right from your wrist."
+      },
+      "coach": {
+        "name": "Vibe AI Coach",
+        "description": "A motivating mascot that reads your habits and turns them into clear next steps."
+      },
+      "sync": {
+        "name": "Cloud Sync",
+        "description": "Your data stays securely in sync across all of your devices."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Healthy habits in three steps",
+    "subtitle": "Start today and see momentum build within the first week.",
+    "steps": {
+      "one": {
+        "title": "Set your goals",
+        "description": "Tell NutriVibe your goal and preferences. We build your personalized calorie and macro plan."
+      },
+      "two": {
+        "title": "Log with AI",
+        "description": "Snap a photo, scan a barcode or search. Logging a meal takes just seconds."
+      },
+      "three": {
+        "title": "Watch your progress",
+        "description": "See clear trends, keep your streak, and let Vibe keep you motivated every day."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Choose your plan",
+    "subtitle": "Start free. Pro is full premium without monthly AI. AI Pro adds photo scan and 100 credits per month.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "perMonth": "/mo",
+    "perYear": "/yr",
+    "saveBadge": "Save with yearly",
+    "mostPopular": "Most popular",
+    "subscribeCta": "Subscribe in the App Store",
+    "creditsTitle": "How AI credits work",
+    "creditsBody": "AI Pro: 100 credits per calendar month (photo scan, text log, AI recipe, goal plan and more — usually 1 credit each). Weekly AI Coach on AI Pro does not cost an extra credit. Pro and Free have no monthly pool — 3 welcome scans once, then scan packs (10 / 30 / 100, never expire) or a rewarded video for +1 scan. Daily cap: up to 15 AI actions when you have credits (Free/Pro), up to 50 on AI Pro.",
+    "recipeAiNote": "Recipes tab requires Pro. “Find in database” uses 0 credits; generating an AI recipe uses 1.",
+    "footnote": "Prices in USD are a guide; the App Store shows your local currency. Pro: 1-week free trial on first subscription where Apple offers it. Scan packs: $1.99 (10), $4.99 (30), $14.99 (100). Subscriptions renew automatically. NutriVibe is not medical advice.",
+    "free": {
+      "name": "Free",
+      "price": "$0",
+      "period": "forever",
+      "cta": "Download free",
+      "features": [
+        "Up to 10 foods per day, water & macro calculator",
+        "Barcode, search, Today & basic Progress",
+        "3 welcome AI scans (once per account)",
+        "Scan packs or rewarded video for more AI"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "billingMonthly": "Pro — monthly",
+      "billingYearly": "Pro — yearly",
+      "priceMonthly": "$2.99",
+      "priceYearly": "$19.99",
+      "features": [
+        "Unlimited food logging every day",
+        "Recipes, fasting & advanced analytics",
+        "Detailed nutrition, Nutri-Score, custom targets",
+        "AI recipe search — 0 credits (Recipes tab is Pro)",
+        "AI photo scan — with AI Pro or scan packs"
+      ]
+    },
+    "aiPro": {
+      "name": "AI Pro",
+      "billingMonthly": "AI Pro — monthly",
+      "billingYearly": "AI Pro — yearly",
+      "priceMonthly": "$7.99",
+      "priceYearly": "$59.99",
+      "features": [
+        "Everything in NutriVibe Pro",
+        "AI photo scan — camera, calories & macros",
+        "100 AI credits per month (shared pool, not unlimited)",
+        "When used up: scan packs or next month"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "subtitle": "Everything you need to know before you start.",
+    "items": {
+      "privacy": {
+        "question": "Is my data private and secure?",
+        "answer": "Yes. Your data is encrypted and securely synced. We never sell your personal information, and you can export or delete your data at any time."
+      },
+      "languages": {
+        "question": "Which languages are supported?",
+        "answer": "NutriVibe is fully available in English, Bulgarian, German and Romanian, with more on the way."
+      },
+      "devices": {
+        "question": "Which devices does it work on?",
+        "answer": "NutriVibe runs on iPhone and includes a dedicated Apple Watch app, with secure cloud sync across your devices."
+      },
+      "appleHealth": {
+        "question": "Does it sync with Apple Health?",
+        "answer": "Yes. Water, weight, nutrition and activity can sync both ways with Apple Health."
+      },
+      "aiAccuracy": {
+        "question": "How do AI credits and scans work?",
+        "answer": "Free: up to 10 foods per day and 3 welcome AI scans once. Pro: unlimited logging, Recipes and fasting, but no monthly AI credits — photo AI needs AI Pro or scan packs. AI Pro: 100 credits per month for scan, text log, AI recipe and more (usually 1 credit each). Recipe search: 0 credits; generating a recipe: 1. App Store prices are in your local currency."
+      },
+      "subscription": {
+        "question": "Can I cancel my subscription anytime?",
+        "answer": "Absolutely. Manage or cancel your subscription anytime in the App Store — no questions asked."
+      }
+    }
+  },
+  "vibe": {
+    "name": "Vibe",
+    "floats": {
+      "heroLeft": "Hey — log something? 🌱",
+      "heroRight": "You've got this! 💪",
+      "heroPeek": "Today at a glance ✨",
+      "social": "Small wins add up 🌟",
+      "featuresSide": "Not sure what to eat?",
+      "howItWorksSide": "Start with one meal today 🍽️"
+    },
+    "howItWorks": "Hey — log something? 🌱",
+    "features": "Try AI Suggest in Recipes 🥗",
+    "pricing": "Pick the plan that fits you ✨",
+    "faq": "Ask away — I nudge you in the app too.",
+    "finalCta": "Keep going! 🎉",
+    "footer": "Proud of you. Rest up. 🌟"
+  },
+  "finalCta": {
+    "title": "Start your healthiest chapter today",
+    "subtitle": "Download NutriVibe free and let your AI coach turn small wins into lasting habits.",
+    "cta": "Download on the App Store"
+  },
+  "footer": {
+    "tagline": "Eat smart. Move often. Live vibrant.",
+    "productHeading": "Product",
+    "companyHeading": "Company",
+    "legalHeading": "Legal",
+    "links": {
+      "features": "Features",
+      "howItWorks": "How it works",
+      "pricing": "Pricing",
+      "faq": "FAQ",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "languageHeading": "Language",
+    "rights": "All rights reserved."
+  },
+  "legal": {
+    "backHome": "Back to home",
+    "lastUpdated": "Last updated"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "updated": "June 2026",
+    "intro": "Your privacy matters to us. This policy explains what NutriVibe collects, how it is used, and the control you have over your data.",
+    "sections": {
+      "collect": {
+        "title": "Information we collect",
+        "body": "We collect the nutrition, activity and profile information you choose to add so we can provide tracking, insights and personalized goals."
+      },
+      "use": {
+        "title": "How we use your data",
+        "body": "Your data powers your dashboards, AI insights and progress. We do not sell your personal information to third parties."
+      },
+      "control": {
+        "title": "Your choices",
+        "body": "You can export or permanently delete your data at any time from within the app or by contacting our support team."
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "updated": "June 2026",
+    "intro": "By using NutriVibe you agree to these terms. Please read them carefully.",
+    "sections": {
+      "use": {
+        "title": "Using NutriVibe",
+        "body": "NutriVibe provides nutrition tracking and educational guidance and is not a substitute for professional medical advice."
+      },
+      "subscriptions": {
+        "title": "Subscriptions",
+        "body": "Premium subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period via the App Store."
+      },
+      "liability": {
+        "title": "Limitation of liability",
+        "body": "NutriVibe is provided on an as-is basis. Always consult a healthcare professional before making significant dietary changes."
+      }
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "NutriVibe — Antrenor nutrițional AI pentru iPhone și Apple Watch",
+    "description": "Urmărește calorii, macro, apă și post fără efort. Fotografiază mâncarea și lasă AI-ul să o înregistreze în câteva secunde. Antrenorul tău prietenos Vibe te ține motivat. Gratuit în App Store.",
+    "ogAlt": "Aplicația NutriVibe pe iPhone cu urmărire alimentară prin AI",
+    "keywords": "NutriVibe, tracker calorii, macro, scaner AI mâncare, aplicație nutriție, post, jurnal alimentar, Apple Health, Apple Watch, dietă, iPhone"
+  },
+  "nav": {
+    "features": "Funcții",
+    "howItWorks": "Cum funcționează",
+    "pricing": "Prețuri",
+    "faq": "Întrebări",
+    "download": "Descarcă",
+    "language": "Limbă",
+    "toggleTheme": "Schimbă tema",
+    "openMenu": "Deschide meniul",
+    "closeMenu": "Închide meniul",
+    "scrollToTop": "Înapoi sus",
+    "scrollToTopShort": "Sus"
+  },
+  "hero": {
+    "badge": "Nutriție cu inteligență artificială",
+    "title": "Mănâncă mai bine cu un",
+    "highlight": "antrenor nutrițional AI",
+    "titleEnd": "în buzunar",
+    "subtitle": "NutriVibe îți înregistrează mesele dintr-o singură fotografie, urmărește calorii, macro, apă și post și te ține motivat cu un antrenor care chiar te înțelege.",
+    "ctaPrimary": "Descarcă din App Store",
+    "ctaSecondary": "Vezi cum funcționează",
+    "trust": "Apreciat de oameni atenți la sănătate din întreaga lume",
+    "ratingLabel": "Evaluare medie 4,9",
+    "screenshotAlt": "NutriVibe — ecranul Today cu calorii, macro și hidratare",
+    "motivation": "Poți reuși! 💪"
+  },
+  "socialProof": {
+    "ratingValue": "4,9",
+    "ratingLabel": "Evaluare în App Store",
+    "foodsValue": "3M+",
+    "foodsLabel": "Alimente în baza de date",
+    "languagesValue": "4",
+    "languagesLabel": "Limbi acceptate"
+  },
+  "features": {
+    "title": "Tot ce ai nevoie ca să mănânci sănătos",
+    "subtitle": "Urmărire puternică, dar fără efort — ca obiceiurile sănătoase să rămână în sfârșit.",
+    "peek": {
+      "today": "Tot în Today ✨",
+      "aiScan": "Foto & log 📸",
+      "fasting": "Sub control ⏱️",
+      "recipes": "Pentru tine 🥗",
+      "progressCalories": "Vezi trenduri 📈",
+      "progressWeight": "Drumul tău 💪",
+      "foodSearch": "Găsește mâncare 🔍",
+      "foodDetails": "Detalii complete 🧪"
+    },
+    "items": {
+      "today": {
+        "name": "Nutriția ta dintr-o privire",
+        "description": "Inel de calorii, macro, hidratare și post într-un dashboard Today liniștit."
+      },
+      "logging": {
+        "name": "Înregistrare inteligentă a meselor",
+        "description": "Înregistrează mesele în câteva secunde cu baza de date Open Food Facts și scanerul de coduri de bare integrat."
+      },
+      "aiScan": {
+        "name": "Scanare alimentară AI",
+        "description": "Fotografiază masa pentru calorii și macro instant. 1 credit AI per scanare (în pool-ul de 100/lună la AI Pro)."
+      },
+      "water": {
+        "name": "Urmărirea apei",
+        "description": "Atinge obiectivele zilnice de hidratare cu adăugare rapidă, sincronizată cu Apple Health."
+      },
+      "macros": {
+        "name": "Obiective de macro și calorii",
+        "description": "Primești un calculator personalizat de macro cu ținte zilnice pentru proteine, carbohidrați și grăsimi."
+      },
+      "fasting": {
+        "name": "Post intermitent",
+        "description": "Urmează planuri flexibile de post cu cronometru live și informații despre etapele metabolice."
+      },
+      "progress": {
+        "name": "Progres și măsurători",
+        "description": "Urmărește greutatea și măsurătorile cu grafice clare în stil Apple și sincronizare cu Apple Health."
+      },
+      "recipes": {
+        "name": "Rețete și AI Suggest",
+        "description": "Rețete cu Pro. AI Suggest: descrii ce vrei → căutare în bază (0 credite) sau rețetă AI completă (1 credit)."
+      },
+      "progressCalories": {
+        "name": "Trenduri calorice",
+        "description": "Grafice linie și bare pentru aportul zilnic față de obiectiv."
+      },
+      "progressWeight": {
+        "name": "Urmărire greutate",
+        "description": "Greutate în timp, linie de obiectiv și sincronizare Apple Health."
+      },
+      "foodSearch": {
+        "name": "Caută și loghează",
+        "description": "Open Food Facts, cod de bare, filtru pe masă — adaugă rapid."
+      },
+      "foodDetails": {
+        "name": "Detalii aliment",
+        "description": "Nutri-Score, macro pe porție, porții și sfaturi Vibe înainte de log."
+      },
+      "watch": {
+        "name": "Aplicație Apple Watch",
+        "description": "Înregistrează apa, pornește postul și verifică-ți ziua direct de pe încheietură."
+      },
+      "coach": {
+        "name": "Antrenor AI Vibe",
+        "description": "O mascotă motivantă care îți citește obiceiurile și le transformă în pași clari de urmat."
+      },
+      "sync": {
+        "name": "Sincronizare în cloud",
+        "description": "Datele tale rămân sincronizate în siguranță pe toate dispozitivele tale."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Obiceiuri sănătoase în trei pași",
+    "subtitle": "Începe azi și vezi progresul încă din prima săptămână.",
+    "steps": {
+      "one": {
+        "title": "Stabilește-ți obiectivele",
+        "description": "Spune-i NutriVibe obiectivul și preferințele tale. Construim planul tău personalizat de calorii și macro."
+      },
+      "two": {
+        "title": "Înregistrează cu AI",
+        "description": "Fă o poză, scanează un cod de bare sau caută. Înregistrarea unei mese durează doar câteva secunde."
+      },
+      "three": {
+        "title": "Urmărește-ți progresul",
+        "description": "Vezi tendințe clare, păstrează-ți seria și lasă Vibe să te motiveze în fiecare zi."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Alege planul tău",
+    "subtitle": "Începe gratuit. Pro = premium complet fără AI lunar. AI Pro = scan foto și 100 credite/lună.",
+    "monthly": "Lunar",
+    "yearly": "Anual",
+    "perMonth": "/lună",
+    "perYear": "/an",
+    "saveBadge": "Economisești cu planul anual",
+    "mostPopular": "Cel mai popular",
+    "subscribeCta": "Abonează-te în App Store",
+    "creditsTitle": "Cum funcționează creditele AI",
+    "creditsBody": "AI Pro: 100 credite pe lună calendaristică (scan foto, log text, rețetă AI, plan obiectiv etc. — de obicei 1 credit). Coach săptămânal la AI Pro fără credit extra. Pro și Gratuit fără pool lunar — 3 scanări welcome o dată, apoi pachete scan (10/30/100, nu expiră) sau video pentru +1 scan. Limită zilnică: până la 15 acțiuni AI (Gratuit/Pro cu credite), până la 50 la AI Pro.",
+    "recipeAiNote": "Tab Rețete necesită Pro. „Find in database” — 0 credite; generare rețetă AI — 1 credit.",
+    "footnote": "Prețurile în USD sunt orientative; App Store afișează moneda locală. Pro: 1 săptămână trial gratuit la primul abonament, unde oferă Apple. Pachete scan: $1.99 (10), $4.99 (30), $14.99 (100). Abonamentele se reînnoiesc automat. NutriVibe nu înlocuiește sfatul medical.",
+    "free": {
+      "name": "Gratuit",
+      "price": "$0",
+      "period": "pentru totdeauna",
+      "cta": "Descarcă gratuit",
+      "features": [
+        "Până la 10 alimente/zi, apă și calculator macro",
+        "Cod de bare, căutare, Today și Progress de bază",
+        "3 scanări AI welcome (o dată per cont)",
+        "Pachete scan sau video pentru mai mult AI"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "billingMonthly": "Pro — lunar",
+      "billingYearly": "Pro — anual",
+      "priceMonthly": "$2.99",
+      "priceYearly": "$19.99",
+      "features": [
+        "Log alimentar nelimitat în fiecare zi",
+        "Rețete, post și analize avansate",
+        "Nutriție detaliată, Nutri-Score, ținte personalizate",
+        "Căutare AI în rețete — 0 credite (tab Rețete = Pro)",
+        "Scan foto AI — cu AI Pro sau pachete scan"
+      ]
+    },
+    "aiPro": {
+      "name": "AI Pro",
+      "billingMonthly": "AI Pro — lunar",
+      "billingYearly": "AI Pro — anual",
+      "priceMonthly": "$7.99",
+      "priceYearly": "$59.99",
+      "features": [
+        "Tot ce include NutriVibe Pro",
+        "Scan foto AI — cameră, calorii și macro",
+        "100 credite AI/lună (pool comun, nu nelimitat)",
+        "După epuizare: pachete scan sau luna următoare"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Întrebări frecvente",
+    "subtitle": "Tot ce trebuie să știi înainte de a începe.",
+    "items": {
+      "privacy": {
+        "question": "Datele mele sunt private și sigure?",
+        "answer": "Da. Datele tale sunt criptate și sincronizate în siguranță. Nu vindem niciodată informațiile tale personale și îți poți exporta sau șterge datele oricând."
+      },
+      "languages": {
+        "question": "Ce limbi sunt acceptate?",
+        "answer": "NutriVibe este disponibil complet în engleză, bulgară, germană și română, urmând și altele."
+      },
+      "devices": {
+        "question": "Pe ce dispozitive funcționează?",
+        "answer": "NutriVibe rulează pe iPhone și include o aplicație dedicată pentru Apple Watch, cu sincronizare sigură în cloud între dispozitivele tale."
+      },
+      "appleHealth": {
+        "question": "Se sincronizează cu Apple Health?",
+        "answer": "Da. Apa, greutatea, nutriția și activitatea se pot sincroniza în ambele sensuri cu Apple Health."
+      },
+      "aiAccuracy": {
+        "question": "Cum funcționează creditele AI și scanările?",
+        "answer": "Gratuit: până la 10 alimente/zi și 3 scanări welcome o dată. Pro: log nelimitat, Rețete și post, fără credite AI lunare — scan foto cu AI Pro sau pachete. AI Pro: 100 credite/lună pentru scan, log text, rețetă AI etc. (de obicei 1 credit). Căutare rețete: 0 credite; generare rețetă: 1. Prețurile în App Store sunt în moneda locală."
+      },
+      "subscription": {
+        "question": "Pot anula abonamentul oricând?",
+        "answer": "Absolut. Gestionează sau anulează abonamentul oricând din App Store — fără complicații."
+      }
+    }
+  },
+  "vibe": {
+    "name": "Vibe",
+    "floats": {
+      "heroLeft": "Hei — loghezi ceva? 🌱",
+      "heroRight": "Poți reuși! 💪",
+      "heroPeek": "Ziua ta dintr-o privire ✨",
+      "social": "Victoriile mici contează 🌟",
+      "featuresSide": "Nu știi ce să mănânci?",
+      "howItWorksSide": "Începe cu o masă azi 🍽️"
+    },
+    "howItWorks": "Hei — loghezi ceva? 🌱",
+    "features": "Încearcă AI Suggest la Rețete 🥗",
+    "pricing": "Alege planul potrivit ✨",
+    "faq": "Întreabă — sunt și în aplicație.",
+    "finalCta": "Continuă! 🎉",
+    "footer": "Mândru de tine. Odihnește-te. 🌟"
+  },
+  "finalCta": {
+    "title": "Începe azi cel mai sănătos capitol al tău",
+    "subtitle": "Descarcă NutriVibe gratuit și lasă antrenorul AI să transforme micile victorii în obiceiuri de durată.",
+    "cta": "Descarcă din App Store"
+  },
+  "footer": {
+    "tagline": "Mănâncă inteligent. Mișcă-te des. Trăiește vibrant.",
+    "productHeading": "Produs",
+    "companyHeading": "Companie",
+    "legalHeading": "Legal",
+    "links": {
+      "features": "Funcții",
+      "howItWorks": "Cum funcționează",
+      "pricing": "Prețuri",
+      "faq": "Întrebări",
+      "privacy": "Politica de confidențialitate",
+      "terms": "Termeni și condiții"
+    },
+    "languageHeading": "Limbă",
+    "rights": "Toate drepturile rezervate."
+  },
+  "legal": {
+    "backHome": "Înapoi la pagina principală",
+    "lastUpdated": "Ultima actualizare"
+  },
+  "privacy": {
+    "title": "Politica de confidențialitate",
+    "updated": "Iunie 2026",
+    "intro": "Confidențialitatea ta contează pentru noi. Această politică explică ce colectează NutriVibe, cum sunt folosite datele și ce control ai asupra lor.",
+    "sections": {
+      "collect": {
+        "title": "Informațiile pe care le colectăm",
+        "body": "Colectăm informațiile despre nutriție, activitate și profil pe care alegi să le adaugi pentru a oferi urmărire, informații și obiective personalizate."
+      },
+      "use": {
+        "title": "Cum folosim datele tale",
+        "body": "Datele tale alimentează tablourile de bord, informațiile AI și progresul tău. Nu vindem informațiile tale personale către terți."
+      },
+      "control": {
+        "title": "Opțiunile tale",
+        "body": "Îți poți exporta sau șterge definitiv datele oricând din aplicație sau contactând echipa noastră de asistență."
+      }
+    }
+  },
+  "terms": {
+    "title": "Termeni și condiții",
+    "updated": "Iunie 2026",
+    "intro": "Folosind NutriVibe, ești de acord cu acești termeni. Te rugăm să îi citești cu atenție.",
+    "sections": {
+      "use": {
+        "title": "Utilizarea NutriVibe",
+        "body": "NutriVibe oferă urmărirea nutriției și îndrumare educativă și nu înlocuiește sfatul medical profesional."
+      },
+      "subscriptions": {
+        "title": "Abonamente",
+        "body": "Abonamentele Premium se reînnoiesc automat dacă nu sunt anulate cu cel puțin 24 de ore înainte de sfârșitul perioadei curente prin App Store."
+      },
+      "liability": {
+        "title": "Limitarea răspunderii",
+        "body": "NutriVibe este oferit ca atare. Consultă întotdeauna un specialist în sănătate înainte de a face schimbări majore în alimentație."
+      }
+    }
+  }
+}
