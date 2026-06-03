@@ -80,8 +80,11 @@ export function buildSiteMetadata({
     },
     robots: { index: true, follow: true, googleBot: { index: true, follow: true } },
     icons: {
-      icon: [{ url: "/mascot/vibe_idle.png", type: "image/png" }],
-      apple: [{ url: "/mascot/vibe_idle.png", type: "image/png" }],
+      icon: [
+        { url: "/icons/icon-192.png", sizes: "192x192", type: "image/png" },
+        { url: "/icons/icon-512.png", sizes: "512x512", type: "image/png" },
+      ],
+      apple: [{ url: "/icons/icon-192.png", sizes: "192x192", type: "image/png" }],
     },
     openGraph: {
       type: "website",

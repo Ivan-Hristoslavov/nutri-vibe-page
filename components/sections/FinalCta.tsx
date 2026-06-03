@@ -1,8 +1,8 @@
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 
+import { AppStoreLink } from "@/components/analytics/app-store-link";
 import { FinalCtaCoach } from "@/components/mascot/final-cta-coach";
-import { APP_STORE_URL } from "@/lib/constants";
 
 export async function FinalCta() {
   const t = await getTranslations("finalCta");
@@ -28,10 +28,8 @@ export async function FinalCta() {
             <p className="mt-4 max-w-lg text-base leading-relaxed text-white/90 sm:text-lg">
               {t("subtitle")}
             </p>
-            <a
-              href={APP_STORE_URL}
-              target="_blank"
-              rel="noreferrer"
+            <AppStoreLink
+              location="final_cta"
               aria-label={t("cta")}
               className="mt-8 inline-flex transition hover:scale-[1.02] active:scale-[0.98]"
             >
@@ -42,7 +40,7 @@ export async function FinalCta() {
                 height={56}
                 className="h-auto w-[170px] max-w-full drop-shadow-lg"
               />
-            </a>
+            </AppStoreLink>
           </div>
           <div className="flex min-w-0 justify-center md:justify-end">
             <FinalCtaCoach />

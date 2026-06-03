@@ -5,7 +5,8 @@ import Image from "next/image";
 import { useTranslations } from "next-intl";
 
 import { Link, usePathname } from "@/i18n/navigation";
-import { APP_STORE_URL, navAnchors } from "@/lib/constants";
+import { AppStoreLink } from "@/components/analytics/app-store-link";
+import { navAnchors } from "@/lib/constants";
 import { MASCOT } from "@/lib/mascot";
 import { scrollToTop } from "@/lib/scroll-to-top";
 import { LanguageSwitcher } from "@/components/site/LanguageSwitcher";
@@ -63,14 +64,12 @@ export function Header() {
               <LanguageSwitcher />
             </div>
             <ThemeToggle />
-            <a
-              href={APP_STORE_URL}
-              target="_blank"
-              rel="noreferrer"
+            <AppStoreLink
+              location="header"
               className="btn-brand hidden px-5 py-2.5 sm:inline-flex"
             >
               {t("download")}
-            </a>
+            </AppStoreLink>
             <button
               type="button"
               aria-label={open ? t("closeMenu") : t("openMenu")}
@@ -116,14 +115,12 @@ export function Header() {
               </nav>
               <div className="flex items-center justify-between gap-3 pt-1">
                 <LanguageSwitcher align="start" />
-                <a
-                  href={APP_STORE_URL}
-                  target="_blank"
-                  rel="noreferrer"
+                <AppStoreLink
+                  location="header_mobile"
                   className="btn-brand flex-1 justify-center"
                 >
                   {t("download")}
-                </a>
+                </AppStoreLink>
               </div>
             </div>
           </div>

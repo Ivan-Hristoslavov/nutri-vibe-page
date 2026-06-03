@@ -1,3 +1,9 @@
+/** Optimized mascot icons (from vibe_happy) for favicon / PWA */
+export const MASCOT_ICONS = {
+  icon192: "/icons/icon-192.png",
+  icon512: "/icons/icon-512.png",
+} as const;
+
 /** Vibe mascot assets in /public/mascot */
 export const MASCOT = {
   idle: "/mascot/vibe_idle.png",

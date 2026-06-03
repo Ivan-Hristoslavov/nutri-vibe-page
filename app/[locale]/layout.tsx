@@ -10,6 +10,7 @@ import { Header } from "@/components/site/Header";
 import { Footer } from "@/components/site/Footer";
 import { ScrollToTopButton } from "@/components/site/scroll-to-top-button";
 import { type Locale, locales } from "@/i18n/routing";
+import { VercelInsights } from "@/components/analytics/vercel-insights";
 import { buildSiteMetadata } from "@/lib/seo";
 
 const geistSans = Geist({
@@ -72,6 +73,7 @@ export default async function LocaleLayout({
             <Footer />
           </Providers>
         </NextIntlClientProvider>
+        <VercelInsights />
       </body>
     </html>
   );

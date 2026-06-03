@@ -1,9 +1,9 @@
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 
+import { AppStoreLink } from "@/components/analytics/app-store-link";
 import { HeroMotivation } from "@/components/mascot/hero-motivation";
 import { HeroPhoneStage } from "@/components/mascot/hero-phone-stage";
-import { APP_STORE_URL } from "@/lib/constants";
 import { SCREENSHOTS } from "@/lib/screenshots";
 import { Stars } from "@/components/media/Stars";
 
@@ -41,10 +41,8 @@ export async function Hero() {
             </h1>
             <p className="max-w-xl text-lg leading-8 text-muted">{t("subtitle")}</p>
             <div className="flex max-w-full flex-wrap items-center gap-3">
-              <a
-                href={APP_STORE_URL}
-                target="_blank"
-                rel="noreferrer"
+              <AppStoreLink
+                location="hero"
                 aria-label={t("ctaPrimary")}
                 className="inline-flex shrink-0 transition hover:scale-[1.02] active:scale-[0.98]"
               >
@@ -55,7 +53,7 @@ export async function Hero() {
                   height={54}
                   className="h-auto w-[160px] max-w-full drop-shadow-md"
                 />
-              </a>
+              </AppStoreLink>
             <a href="#how-it-works" className="btn-hero-secondary shrink-0">
               {t("ctaSecondary")}
             </a>

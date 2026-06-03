@@ -5,7 +5,7 @@ import { useTranslations } from "next-intl";
 import { Button, Chip } from "@heroui/react";
 
 import { ScrollReveal } from "@/components/motion/scroll-reveal";
-import { APP_STORE_URL } from "@/lib/constants";
+import { AppStoreLink } from "@/components/analytics/app-store-link";
 import { IconCheck } from "@/components/ui/brand-icon";
 
 function FeatureCheck({ featured = false }: { featured?: boolean }) {
@@ -81,14 +81,12 @@ export function Pricing() {
                 </li>
               ))}
             </ul>
-            <a
-              href={APP_STORE_URL}
-              target="_blank"
-              rel="noreferrer"
+            <AppStoreLink
+              location="pricing_free"
               className="btn-outline mt-8 w-full sm:mt-auto"
             >
               {t("free.cta")}
-            </a>
+            </AppStoreLink>
           </article>
         </ScrollReveal>
 
@@ -114,14 +112,12 @@ export function Pricing() {
                 </li>
               ))}
             </ul>
-            <a
-              href={APP_STORE_URL}
-              target="_blank"
-              rel="noreferrer"
+            <AppStoreLink
+              location="pricing_pro"
               className="btn-outline mt-8 w-full sm:mt-auto"
             >
               {t("subscribeCta")}
-            </a>
+            </AppStoreLink>
           </article>
         </ScrollReveal>
 
@@ -157,14 +153,12 @@ export function Pricing() {
                   </li>
                 ))}
               </ul>
-              <a
-                href={APP_STORE_URL}
-                target="_blank"
-                rel="noreferrer"
+              <AppStoreLink
+                location="pricing_ai"
                 className="btn-brand mt-8 w-full sm:mt-auto"
               >
                 {t("subscribeCta")}
-              </a>
+              </AppStoreLink>
             </div>
           </article>
         </ScrollReveal>
