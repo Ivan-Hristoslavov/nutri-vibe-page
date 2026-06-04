@@ -13,13 +13,20 @@ export async function buildHomeStructuredData(locale: Locale) {
   const softwareApplication = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    name: "NutriVibe",
-    alternateName: "NutriVibe — AI Food Scanner",
+    name: "NutriVibe - AI Food Scanner",
+    alternateName: "NutriVibe AI Calorie Counter",
     operatingSystem: "iOS",
     applicationCategory: "HealthApplication",
     applicationSubCategory: "NutritionApplication",
     description: tMeta("description"),
     inLanguage: locale,
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: "4.9",
+      ratingCount: "117",
+      bestRating: "5",
+      worstRating: "1",
+    },
     offers: {
       "@type": "Offer",
       price: "0",
@@ -35,7 +42,7 @@ export async function buildHomeStructuredData(locale: Locale) {
   const webSite = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    name: "NutriVibe",
+    name: "NutriVibe - AI Food Scanner",
     url: site.origin,
     inLanguage: locale,
     description: tMeta("description"),
@@ -45,6 +52,7 @@ export async function buildHomeStructuredData(locale: Locale) {
     "@context": "https://schema.org",
     "@type": "Organization",
     name: "NutriVibe",
+    alternateName: "NutriVibe - AI Food Scanner",
     url: site.origin,
     logo: `${site.origin.replace(/\/$/, "")}/mascot/vibe_idle.png`,
   };

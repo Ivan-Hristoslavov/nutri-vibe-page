@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "NutriVibe — KI-Ernährungscoach für iPhone & Apple Watch",
-    "description": "Verfolge Kalorien, Makros, Wasser und Fasten mühelos. Fotografiere dein Essen und lass die KI es in Sekunden erfassen. Dein freundlicher Vibe-Coach hält dich motiviert. Kostenlos im App Store.",
+    "title": "NutriVibe — KI-Lebensmittelscanner & Kalorienzähler für iPhone",
+    "description": "KI-Lebensmittelscanner, der Kalorien aus einem Foto zählt. Verfolge Makros, Wasser, Fasten und Gewicht mit deinem KI-Ernährungscoach. Kostenlos für iPhone und Apple Watch.",
     "ogAlt": "NutriVibe-App auf dem iPhone mit KI-Lebensmittelerfassung",
-    "keywords": "NutriVibe, Kalorienzähler, Makro-Tracker, KI-Lebensmittelscanner, Ernährungs-App, Fasten, Ernährungstagebuch, Apple Health, Apple Watch, Diät, iPhone"
+    "keywords": "KI-Lebensmittelscanner, Kalorienzähler App, Food Scanner, KI Kalorien Tracker, Foto Essen Scanner, Makro Tracker, Ernährungs App, NutriVibe, Fasten, Apple Health, iPhone"
   },
   "nav": {
     "features": "Funktionen",
@@ -20,10 +20,10 @@
   },
   "hero": {
     "badge": "KI-gestützte Ernährung",
-    "title": "Iss besser mit einem",
-    "highlight": "KI-Ernährungscoach",
-    "titleEnd": "in deiner Tasche",
-    "subtitle": "NutriVibe erfasst deine Mahlzeiten aus einem einzigen Foto, verfolgt Kalorien, Makros, Wasser und Fasten und motiviert dich mit einem Coach, der dich wirklich versteht.",
+    "title": "Der",
+    "highlight": "KI-Lebensmittelscanner",
+    "titleEnd": ", der Kalorien für dich zählt",
+    "subtitle": "Mach ein Foto und erhalte sofort Kalorien und Makros. NutriVibe verfolgt deine Mahlzeiten, Wasser und Fasten — mit einem KI-Coach, der dich wirklich versteht.",
     "ctaPrimary": "Im App Store laden",
     "ctaSecondary": "So funktioniert's",
     "trust": "Beliebt bei gesundheitsbewussten Menschen weltweit",
@@ -62,7 +62,7 @@
         "description": "Erfasse Mahlzeiten in Sekunden mit der riesigen Open-Food-Facts-Datenbank und integriertem Barcode-Scanner."
       },
       "aiScan": {
-        "name": "KI-Lebensmittelscan",
+        "name": "KI-Lebensmittelscanner",
         "description": "Foto der Mahlzeit für sofortige Kalorien und Makros. 1 KI-Credit pro Scan (im AI-Pro-Kontingent: 100/Monat)."
       },
       "water": {

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "NutriVibe — AI Nutrition Coach for iPhone & Apple Watch",
-    "description": "Track calories, macros, water and fasting effortlessly. Snap a photo and let AI log your meal in seconds. Your friendly Vibe coach keeps you motivated. Free on the App Store.",
+    "title": "NutriVibe — AI Food Scanner & Calorie Counter for iPhone",
+    "description": "AI food scanner that counts calories from a photo. Track macros, water, fasting and weight with your AI nutrition coach. Free for iPhone and Apple Watch.",
     "ogAlt": "NutriVibe app on iPhone showing AI food tracking",
-    "keywords": "NutriVibe, calorie tracker, macro tracker, AI food scanner, nutrition app, intermittent fasting, meal log, Apple Health, Apple Watch, diet coach, food diary, iPhone health app"
+    "keywords": "AI food scanner, calorie counter app, food scanner app, AI calorie tracker, photo food tracker, macro tracker, nutrition app, meal scanner, calorie counter iPhone, NutriVibe, intermittent fasting, Apple Health"
   },
   "nav": {
     "features": "Features",
@@ -20,10 +20,10 @@
   },
   "hero": {
     "badge": "AI-powered nutrition",
-    "title": "Eat better with an",
-    "highlight": "AI nutrition coach",
-    "titleEnd": "in your pocket",
-    "subtitle": "NutriVibe logs your meals from a single photo, tracks calories, macros, water and fasting, and keeps you motivated with a coach that actually gets you.",
+    "title": "The",
+    "highlight": "AI food scanner",
+    "titleEnd": "that counts calories for you",
+    "subtitle": "Snap a photo and get instant calories and macros. NutriVibe tracks your meals, water and fasting, and keeps you motivated with an AI coach that actually gets you.",
     "ctaPrimary": "Download on the App Store",
     "ctaSecondary": "See how it works",
     "trust": "Loved by health-conscious people worldwide",
@@ -62,7 +62,7 @@
         "description": "Log meals in seconds with a huge Open Food Facts database and a built-in barcode scanner."
       },
       "aiScan": {
-        "name": "AI Food Scan",
+        "name": "AI Food Scanner",
         "description": "Snap a meal for instant calories and macros. Uses 1 AI credit per scan (included in AI Pro’s 100/month bucket)."
       },
       "water": {

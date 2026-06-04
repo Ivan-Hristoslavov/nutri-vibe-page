@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "NutriVibe — Antrenor nutrițional AI pentru iPhone și Apple Watch",
-    "description": "Urmărește calorii, macro, apă și post fără efort. Fotografiază mâncarea și lasă AI-ul să o înregistreze în câteva secunde. Antrenorul tău prietenos Vibe te ține motivat. Gratuit în App Store.",
+    "title": "NutriVibe — Scaner alimente AI și numărător calorii pentru iPhone",
+    "description": "Scaner alimente AI care numără caloriile dintr-o fotografie. Urmărește macro, apă, post și greutate cu antrenorul tău nutrițional AI. Gratuit pentru iPhone și Apple Watch.",
     "ogAlt": "Aplicația NutriVibe pe iPhone cu urmărire alimentară prin AI",
-    "keywords": "NutriVibe, tracker calorii, macro, scaner AI mâncare, aplicație nutriție, post, jurnal alimentar, Apple Health, Apple Watch, dietă, iPhone"
+    "keywords": "scaner alimente AI, numărător calorii, scaner mâncare, AI calorii, foto scaner alimente, macro, nutriție, NutriVibe, post, Apple Health, iPhone"
   },
   "nav": {
     "features": "Funcții",
@@ -20,10 +20,10 @@
   },
   "hero": {
     "badge": "Nutriție cu inteligență artificială",
-    "title": "Mănâncă mai bine cu un",
-    "highlight": "antrenor nutrițional AI",
-    "titleEnd": "în buzunar",
-    "subtitle": "NutriVibe îți înregistrează mesele dintr-o singură fotografie, urmărește calorii, macro, apă și post și te ține motivat cu un antrenor care chiar te înțelege.",
+    "title": "",
+    "highlight": "Scanerul alimente AI",
+    "titleEnd": "care numără caloriile pentru tine",
+    "subtitle": "Fă o poză și primești instant calorii și macro. NutriVibe îți urmărește mesele, apa și postul — cu un antrenor AI care chiar te înțelege.",
     "ctaPrimary": "Descarcă din App Store",
     "ctaSecondary": "Vezi cum funcționează",
     "trust": "Apreciat de oameni atenți la sănătate din întreaga lume",
@@ -62,7 +62,7 @@
         "description": "Înregistrează mesele în câteva secunde cu baza de date Open Food Facts și scanerul de coduri de bare integrat."
       },
       "aiScan": {
-        "name": "Scanare alimentară AI",
+        "name": "Scaner alimente AI",
         "description": "Fotografiază masa pentru calorii și macro instant. 1 credit AI per scanare (în pool-ul de 100/lună la AI Pro)."
       },
       "water": {
